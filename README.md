@@ -25,6 +25,16 @@ which estimates the current sound intensity. This sound level is then used to co
 
 This process runs continuously, allowing the bracelet to react to music in real time.
 
+
+
+
+https://github.com/user-attachments/assets/8a72894b-edc3-4afb-8231-8bde10092508
+
+
+
+
+
+
 ## Challenges & Debugging
 Some of the main challenges I faced included:
 - Preventing the LEDs from remaining permanently on
